@@ -1,0 +1,11 @@
+C:\Users\mrsydar\Projects\FatalAccident\FatalAccident\obj\Debug\netstandard2.1\FatalAccident.csproj.AssemblyReference.cache
+C:\Users\mrsydar\Projects\FatalAccident\FatalAccident\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\mrsydar\Projects\FatalAccident\FatalAccident\obj\Debug\netstandard2.1\FatalAccident.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrsydar\Projects\FatalAccident\FatalAccident\obj\Debug\netstandard2.1\FatalAccident.AssemblyInfoInputs.cache
+C:\Users\mrsydar\Projects\FatalAccident\FatalAccident\obj\Debug\netstandard2.1\FatalAccident.AssemblyInfo.cs
+C:\Users\mrsydar\Projects\FatalAccident\FatalAccident\obj\Debug\netstandard2.1\FatalAccident.csproj.CoreCompileInputs.cache
+C:\Users\mrsydar\Projects\FatalAccident\FatalAccident\bin\Debug\netstandard2.1\FatalAccident.deps.json
+C:\Users\mrsydar\Projects\FatalAccident\FatalAccident\bin\Debug\netstandard2.1\FatalAccident.dll
+C:\Users\mrsydar\Projects\FatalAccident\FatalAccident\bin\Debug\netstandard2.1\FatalAccident.pdb
+C:\Users\mrsydar\Projects\FatalAccident\FatalAccident\obj\Debug\netstandard2.1\FatalAccident.dll
+C:\Users\mrsydar\Projects\FatalAccident\FatalAccident\obj\Debug\netstandard2.1\FatalAccident.pdb
